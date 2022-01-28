@@ -1,7 +1,7 @@
 ## Hello, My name is Wesley Reuel, I'm a software developer from Brazil, based in Lisbon, Portugal
 
 ### About me:
-- 🤩 Software developer with more than 11 years of experience
+- 🤩 Software developer with more than 14 years of experience
 - :airplane: Backpacker
 - 🤔 I’m on Twitter https://twitter.com/wreuel
 - :framed_picture: and Instagram https://instagram.com/wreuel
@@ -9,14 +9,15 @@
 
 ### 🛠 Tech Stack:
  - 🛢 Databases: SQL Server, Postgres, MySQL, DynamoDB and MongoDB.
- - 💻  C#, .Net FrameWork, .Net Core 3.1, .NET 5
+ - 💻  C#, .Net FrameWork, .Net Core 3.1, .NET 5, .NET 6
  - :cloud: AWS, Azure
  - :toolbox: Jenkins, SonarQube
  - 🌐 Angular, TypeScript
  - 📱 Android Native with Java
+ - :whale: Docker
  
  ### 🌱 What I'm learning:
- - :whale: Docker
+ - :anchor: Kubernetes
  
  ### Linked In: 
 <!--[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:testes@teste.com)  -->
