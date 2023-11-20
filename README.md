@@ -12,7 +12,7 @@
  - 💻  C#, .Net FrameWork, .Net Core 3.1, .NET 5, .NET 6
  - :cloud: AWS, Azure
  - :toolbox: Jenkins, SonarQube
- - 🌐 Angular, TypeScript
+ - 🌐 Angular, Vue, TypeScript
  - 📱 Android Native with Java
  - :whale: Docker
  
